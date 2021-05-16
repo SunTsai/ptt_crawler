@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from constants import month_dict
-from path_setting import log_dir, page_dir, keyword_dir
+from path_setting import log_dir, keyword_dir
 from logging_setting import Log
 from db_controller import DB_Controller
 from linebot_api import LineBot
