@@ -6,7 +6,7 @@ PS5 供貨還不是很穩定，因此想說買一台二手 PS4，當作人生第
 2. 抓下來的資料放到 PostgreSQL
 3. 如果出現指定的關鍵字，以 Line Bot 通知。
 
-# 使用技術：
+# 使用技術
 1. Python (Flask)
 2. PostgreSQL
 3. Line Messaging API
